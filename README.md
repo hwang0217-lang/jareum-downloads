@@ -1,1 +1,9 @@
-# jareum-downloads
+# 자람 Android 테스트 APK
+
+[APK 바로 다운로드](https://github.com/hwang0217-lang/jareum-downloads/raw/main/jareum.apk)
+
+폰 카메라로 QR을 찍거나 위 링크를 누르면 항상 최신 버전이 받아져요. 받은 파일을 열고, Android가 물어보면 "이 출처 허용"을 누른 뒤 설치하세요.
+
+- 버전 0.1.40, 빌드 2026-11-09 (소스 커밋 0661f70)
+- 테스트 서명판이며 결제는 비활성 상태예요. 앱 소스 저장소는 비공개예요.
+- SHA-256: `66125c237000de474a0d95db22abac947f0a0f3f69c1041e61d861a68d4f3111`
