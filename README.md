@@ -7,3 +7,6 @@
 - 버전 0.1.40, 빌드 2026-11-11 (소스 커밋 fc83092, run 5)
 - 테스트 서명판이며 결제는 비활성 상태예요. 앱 소스 저장소는 비공개예요.
 - SHA-256: `99e1daa83c05d888b8da78fb696788f2ddf89f0aab91e73f66a3ba36e728ee1b`
+
+## 자람 고객지원
+개인정보처리방침·이용 안내·회원 탈퇴 안내: https://hwang0217-lang.github.io/jareum-downloads/support/
